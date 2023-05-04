@@ -12,5 +12,5 @@ Implemented Rest APIs for the blog theme using the following technologies:
 + Docker
 + AWS [RDS, Elastic Beanstalk]
 
-[Документація Swagger до розгорнутої програми](http://myblog-env.eu-west-2.elasticbeanstalk.com/swagger-ui/index.html)
+[Swagger documentation for the deployed program](http://myblog-env.eu-west-2.elasticbeanstalk.com/swagger-ui/index.html)
 

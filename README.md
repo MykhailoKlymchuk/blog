@@ -10,6 +10,7 @@ Implemented Rest APIs for the blog theme using the following technologies:
 + Hibernate
 + MySQL
 + AWS [RDS, Elastic Beanstalk]
++ Docker
 
 [Swagger documentation for the deployed program](http://myblog-env.eu-west-2.elasticbeanstalk.com/swagger-ui/index.html)
 
